@@ -1,0 +1,39 @@
+# Archivos compilados
+*.class
+*.o
+*.exe
+*.out
+*.pyc
+__pycache__/
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de build
+bin/
+build/
+target/
+dist/
+out/
+
+# Archivos de dependencias
+node_modules/
+venv/
+env/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
